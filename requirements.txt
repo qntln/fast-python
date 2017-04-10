@@ -1,0 +1,5 @@
+rise==4.0.0b1
+numba==0.31.0
+numpy==1.12.1
+jupyter==1.0.0
+Cython==0.25.2
